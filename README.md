@@ -20,7 +20,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-gh repo clone vishnu1100/Netflix_template
+gh repo clone vishnu1100/Netflix_clone_3.0
 ```
 
 2. Open the project in your preferred code editor.
